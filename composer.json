@@ -1,0 +1,15 @@
+{
+    "name": "lena/zad7",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Lena\\Zad7\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lena Orlova"
+        }
+    ],
+    "require": {}
+}
